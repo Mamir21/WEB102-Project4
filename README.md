@@ -22,6 +22,8 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
+![Project4](https://github.com/user-attachments/assets/af942ae6-b9e2-4e9e-a875-eb70ddc46c9f)
+
 GIF created with ...  
 [ScreenToGif](https://www.screentogif.com/) for Windows
 
