@@ -2,7 +2,7 @@
 
 Submitted by: **Muhammad Amir**
 
-This web app: **Application **
+This web app: **Application for different cats**
 
 Time spent: **15** hours spent in total
 
